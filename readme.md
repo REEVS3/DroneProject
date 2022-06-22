@@ -4,5 +4,7 @@ Drone Project
 
 ## Description
 
-DIY 3d prinmt budget drone for studio 5
+DIY 3d prinmt budget drone for studio 6
+
+
 
